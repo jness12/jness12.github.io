@@ -7,4 +7,4 @@ I started learning how to use R by working with the Palmer Penguins data set. We
 
 # Work with Great Lakes Fish
 
-Here I worked with larger data and observed 51 fish species among the Great Lakes. The data I used is from Great Lakes Fishery Commission and was collected as early as 1867. If you are interested, you can see my analysis [here] (https://jness12.github.io/BiostatisticsAnalysis/Fishdata.html)
+Here I worked with larger data and observed 51 fish species among the Great Lakes. The data I used is from Great Lakes Fishery Commission and was collected as early as 1867. If you are interested, you can see my analysis [here] (https://jness12.github.io/BioStatisticsAnalysis/Fishdata.html)
