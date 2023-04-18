@@ -17,4 +17,4 @@ Here I worked with larger data and observed 51 fish species among the Great Lake
 
 # Origin of Replication
 
-The origin of replication consists of 3 parts in which we built code to locate specific patterns in the genome to help us find the orgin. We worked with a randomly generated genome and used it to build multiple functions to help locate the origin of replication.
+The origin of replication consists of 3 parts in which we built code to locate specific patterns in the genome to help us find the orgin. We worked with a randomly generated genome and used it to build multiple functions to help locate the origin of replication [here](https://agmath.github.io/BIO4ST1_Group1/Replication_Jennessa_Brunette.html)
