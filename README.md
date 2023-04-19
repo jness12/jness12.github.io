@@ -3,9 +3,10 @@ This is a page where I'll share some information about myself and the work I am 
 
 # About Me
 I am a biology major at Southern New Hampshire University and expect to graudate in 2024. This past semester I been apart of the club field hockey team, and have been working two part-time jobs at the CMC Hospital as a dietary aide associate and recently as a pharmacy technician at Walgreens.
-![1633458325956](https://user-images.githubusercontent.com/122034857/232643397-d8cbd4fb-361b-4c8d-8f7e-9152c54c4b72.jpeg)
 
 While at SNHU, Ive had the opportunity to strengthen my time mangement skills and learn the importance of responsibility. Some strengths of mine include discipline, versatility and harmony, as I like to stay organized and I get along well with everyone.
+
+![1633458325956](https://user-images.githubusercontent.com/122034857/232643397-d8cbd4fb-361b-4c8d-8f7e-9152c54c4b72.jpeg)
 
 # Work with Penguins Data
 
