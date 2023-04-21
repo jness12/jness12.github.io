@@ -1,5 +1,5 @@
 # Jennessa's BioAnalysis
-This is a page where I'll share some information about myself and the work I am doing in BioInformatics. So far, I've done some work to analyze data on Penguins, and I've also done some work with the Great Lake's Fish data. More recently, I have worked on finding the Origin of replication using a genome, as well as some w
+This is a page where I'll share some information about myself and the work I am doing in Bioinformatics. So far, I've done some work to analyze data on Penguins, and I've also done some work with the Great Lake's Fish data. More recently, I have worked on finding the Origin of replication using a genome, as well as some work with a Volcano dataset.
 
 # About Me
 I am a biology major at Southern New Hampshire University and expect to graudate in 2024. This past semester I been apart of the club field hockey team, and have been working two part-time jobs at the CMC Hospital as a dietary aide associate and recently as a pharmacy technician at Walgreens.
